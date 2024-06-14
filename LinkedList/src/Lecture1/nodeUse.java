@@ -1,8 +1,9 @@
-package Lecture1;
+  package Lecture1;
 
 import java.util.Scanner;
 
 public class nodeUse {
+
 
 	public static void printLL(Node<Integer> head) {
 		//dont loose your head, store in temp and move that
